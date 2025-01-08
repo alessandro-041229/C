@@ -12,7 +12,7 @@ suggesting codeblox for it wich can be downlaoded here https://www.codeblocks.or
 # how to run
 
 1. for running the downloaded programms it only requires to open the codeblox app
-   https://en.wikipedia.org/wiki/Code::Blocks#/media/File:Code_blocks_16.01.png
+  ![codeblox](https://en.wikipedia.org/wiki/Code::Blocks#/media/File:Code_blocks_16.01.png) 
 choose to open and existing project
 and then select the downloaded project, specific the file .c inside of the folder and run it in codeblocks
 
